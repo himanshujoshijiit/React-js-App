@@ -1,3 +1,11 @@
+# Here is the doshoping App deploye on heroku
+
+This App is made in REACT JS 
+https://doshoping.herokuapp.com/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
